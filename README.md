@@ -1,6 +1,6 @@
 # Liga AI Test Plugin
 
-This repository contains the Liga AI test plugin for the Mod KI Turnier Liga / Ascension AI Tournament setup for Stronghold Crusader.
+This repository contains the Liga AI test plugin for the Mod KI Team Liga / KI Turnier Liga setup for Stronghold Crusader.
 
 ## Purpose
 
@@ -8,9 +8,9 @@ The plugin bundles test AIs in UCP plugin format so they can be used and checked
 
 ## Upstream
 
-The original Mod KI Turnier Liga / Ascension AI Tournament plugin repository can be found here:
+The original Mod KI Team Liga / KI Turnier Liga plugin repository can be found here:
 
-- https://github.com/Krarilotus/Ascension-AI-Tournament
+- https://github.com/Nevikov/Mod-KI-Team-Liga
 
 ## Credits
 

@@ -1,7 +1,7 @@
 meta:
   version: 1.0.0
 name: Ligs-Test-KIs
-author: Krarilotus
+author: Krarilotus & Schlossgespenst
 version: 1.0.0
 dependencies:
   aiSwapper: ^1.2.1
