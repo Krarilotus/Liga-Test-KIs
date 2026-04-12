@@ -7,7 +7,7 @@
   },
   "startTroops": {
     "normal": {
-	  "EuropArcher": 19,
+	  "EuropArcher": 17,
 	  "Pikeman": 4
     },
     "crusader": {
