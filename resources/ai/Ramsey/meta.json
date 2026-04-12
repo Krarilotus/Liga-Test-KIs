@@ -1,0 +1,19 @@
+{
+  "name": "Ramsey",
+  "description": "Ramsey ist ein grausamer Jagdherr, der Angst wie eine Kunstform behandelt.",
+  "author": "Krarilotus",
+  "link":"",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": ["de"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": true,
+    "portrait": true
+  }
+}

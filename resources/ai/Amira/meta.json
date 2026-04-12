@@ -1,0 +1,21 @@
+{
+  "name": "Amira",
+  "description": "Amira 6 Haus KI Von Krari",
+  "author": "Krarilotus",
+  "link": "",
+  "version": "1.0.0",
+  "defaultLang": "de",
+  "supportedLang": [
+    "de"
+  ],
+  "switched": {
+    "aic": true,
+    "lord": true,
+    "startTroops": true,
+    "aiv": true,
+    "portrait": true,
+    "speech": true,
+    "binks": true,
+    "lines": true
+  }
+}

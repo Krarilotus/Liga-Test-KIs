@@ -1,0 +1,66 @@
+{
+  "ai_name": "Amira",
+
+  "title_1": "Die Falkin",
+  "title_2": "Wüstensturm",
+  "title_3": "Zaynab al-Sahra",
+  "title_4": "Die Herrin",
+  "title_5": "Schnelle Klinge",
+  "title_6": "Sandviper",
+  "title_7": "Die Eiferin",
+  "title_8": "Mutter Zorn",
+
+  "description": "(Partnerin des Al-Riyad, farbe Schwarz) Eine Meisterin des schnellen Todes. Sie verachtet Prunk und setzt auf pure Geschwindigkeit und religiösen Eifer. Reizen Sie sie nicht, oder die Wüste wird Ihr Grab.",
+
+  "unknown_1": "Furie",
+
+  "taunt_1": "Back ruhig weiter. Meine Klingen sind unterwegs.",
+  "taunt_2": "Du bist zu langsam für meine Wüste!",
+  "taunt_3": "Verstecken zwecklos! Ich sehe alles.",
+  "taunt_4": "Hörst du den Wind? Er bringt den Tod.",
+
+  "anger_1": "WIE KANNST DU?! Das büßt du!",
+  "anger_2": "Du zerstörst mein Werk?! STIRB!",
+
+  "plead": "Der Sand... er holt mich.",
+
+  "nervous_1": "Bewegt euch! Bogenschützen, auf die Wälle!",
+  "nervous_2": "Zu ruhig hier. Wacht auf, ihr Nichtsnutze!",
+
+  "victory_1": "Das war alles? Lächerlich.",
+  "victory_2": "Brenne, du Schandfleck! Weg damit!",
+  "victory_3": "Endlich Ruhe. Die Geier freuen sich.",
+  "victory_4": "Weg mit dem Schwächling!",
+
+  "request": "Her mit dem Zeug! Ich hasse Warterei.",
+  "thanks": "Wurde auch Zeit. Lahme Ente.",
+
+  "ally_death": "Er ist tot? Nutzlos. Typisch.",
+
+  "congrats": "Nicht übel. Für eine Schnecke.",
+
+  "boast": "Siehst du? So tötet man effizient.",
+
+  "help": "Hilfe! Sonst bringe ich *euch* um!",
+  "extra": "Das dauert zu lange! Macht hinne!",
+
+  "kick_player": "Verschwinde, du Ballast.",
+  "add_player": "Enttäusch mich nicht. Ich beobachte dich.",
+
+  "siege": "Besuch! Kessel heiß machen, sofort!",
+
+  "no_attack_1": "Ich bin nicht dein Hund. Nein.",
+  "no_attack_2": "Dumme Idee. Mach's alleine.",
+
+  "no_help_1": "Hilf dir selbst. Bin beschäftigt.",
+  "no_help_2": "Sterb leise, ich hab zu tun.",
+
+  "no_sent": "Träum weiter. Das gehört mir.",
+  "sent": "Nimm und schweig. Ich bin keine Bank.",
+
+  "team_winning": "Sieg! Dank meiner Schnelligkeit.",
+  "team_losing": "Wir verlieren wegen dir! Beweg dich!",
+
+  "help_sent": "Meine Reiter kommen. Verschwendet sie nicht!",
+  "will_attack": "Ziel erfasst. Sie sind schon tot."
+}

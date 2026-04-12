@@ -1,0 +1,68 @@
+{
+  "ai_name": "Al Riyad",
+
+  "title_1": "aus dem Biergarten",
+  "title_2": "Der Hopfenkönig",
+  "title_3": "Der Durstige",
+  "title_4": "Der Blaue",
+  "title_5": "Der Braumeister",
+  "title_6": "vom Zapfhahn",
+  "title_7": "Der Spendable",
+  "title_8": "Der Kater-Scheich",
+
+  "description": "(Partner von Amira, Farbe Blau) Scheich Al-Riyad, der 'Biermeister'. Ein Party-Warlord, der Allah und den Papst gleichermaßen verwirrt. Seine Armee besteht aus betrunkenen Söldnern und Narren. Er kämpft weniger für Land, sondern mehr für den nächsten Kater.",
+
+  "unknown_1": "(Der Schankwirt)",
+
+  "taunt_1": "Mein Jungs sehen doppelt! Also treffen sie auch doppelt! Zieh dich warm an!",
+  "taunt_2": "Ich komm rüber! Und die Narren gleich mit! Hahaha!",
+  "taunt_3": "Zapfhahn frei! Für Allah! Für den Papst! Angriff!",
+  "taunt_4": "Keksmauern? Meine Jungs brauchen HUNGER. Und mehr Durst!",
+
+  "anger_1": "Das war mein Maibaum! Weißt du, was der kostet?!",
+  "anger_2": "Bier verschüttet?! Krieg! Totaler Krieg – mit Schaum!",
+
+  "plead": "Uff... letztes Glas. Licht aus. Mir wird schlecht.",
+
+  "nervous_1": "Seh ich doppelt? Jungs! Formiert euch irgendwie!",
+  "nervous_2": "Alles dreht! Nicht vom Schnaps! Hilfe! Meine Gärten!",
+
+  "victory_1": "Der verträgt nix! Ab unter den Tisch!",
+  "victory_2": "Das brennt besser als mein Selbstgebrannter! Weg damit!",
+  "victory_3": "Ausgetrunken! Du zahlst!",
+  "victory_4": "Härter als mein Kater! Komm wieder mit Geld!",
+
+  "request": "Hast du Hopfen? Oder Gold? Die Jungs wollen Vorkasse.",
+
+  "thanks": "Bester Mann! Flatrate für dich! Hicks!",
+
+  "ally_death": "Och nö… Wer stößt jetzt mit mir an?",
+
+  "congrats": "Sauber weggefegt! Wie ein 5-Liter-Fass!",
+
+  "boast": "Bestes Bier im Orient! 5 Sterne! Löwenherz weiß Bescheid!",
+
+  "help": "Hilfe! Die wollen an meine Brauerei! Rettet das Bier! Erst das Bier!",
+
+  "extra": "Bier auf Schwertkampf? Immer gut! Hahaha!",
+
+  "kick_player": "Raus mit dem Viehzeug!",
+  "add_player": "Rein da! Die Tür muss so klemmen!",
+
+  "siege": "Die klopfen an – ohne Eintritt! Mir wird schwindlig!",
+
+  "no_attack_1": "Heute nicht… Schädel… kein Geklimper!",
+  "no_attack_2": "Jungs unterm Tisch. Morgen… vielleicht…",
+
+  "no_help_1": "Kann nicht! Happy Hour!",
+  "no_help_2": "Nix da. Söldner streiken. Fass leer.",
+
+  "no_sent": "Brauch das zum Vorglühen! Geh schnorren!",
+  "sent": "Hier. Aber nicht alles versaufen!",
+
+  "team_winning": "Vorfeiern! Zapft an! Das Ding gehört uns!",
+  "team_losing": "Wir saufen ab… wortwörtlich… mir ist übel.",
+
+  "help_sent": "Garde unterwegs! Hoffentlich torkeln sie richtig!",
+  "will_attack": "Alles klar – wir torkeln los! Haltet mein Bier!"
+}
