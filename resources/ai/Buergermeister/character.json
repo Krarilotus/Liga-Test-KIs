@@ -7,7 +7,7 @@
   },
   "startTroops": {
     "normal": {
-      "Slinger": 20,
+      "Slinger": 26,
 	  "ArabArcher": 6
     },
     "crusader": {
@@ -105,8 +105,8 @@
 				"RecruitProbAttackDefault": 50,
 				"RecruitProbAttackWeak": 60,
 				"RecruitProbAttackStrong": 60,
-				"SortieUnitRangedMin": 25,
-				"SortieUnitRanged": "Slinger",
+				"SortieUnitRangedMin": 6,
+				"SortieUnitRanged": "ArabArcher",
 				"SortieUnitMeleeMin": 1,
 				"SortieUnitMelee": "Monk",
 				"DefDiggingUnitMax": 2,
