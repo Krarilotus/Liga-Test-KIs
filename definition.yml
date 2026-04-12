@@ -1,9 +1,9 @@
 meta:
   version: 1.0.0
-name: Muggers
+name: Ligs-Test-KIs
 author: Krarilotus
 version: 1.0.0
 dependencies:
   aiSwapper: ^1.2.1
 type: plugin
-display-name: Muggers
+display-name: Ligs-Test-KIs
