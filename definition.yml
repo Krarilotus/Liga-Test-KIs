@@ -1,9 +1,10 @@
 meta:
   version: 1.0.0
-name: Ligs-Test-KIs
+name: Liga-Test-KIs
 author: Krarilotus & Schlossgespenst
 version: 1.0.0
 dependencies:
   aiSwapper: ^1.2.1
 type: plugin
-display-name: Ligs-Test-KIs
+display-name: Liga-Test-KIs
+
