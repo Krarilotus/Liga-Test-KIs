@@ -19,19 +19,8 @@ The plugin bundles a small set of custom AIs in UCP plugin format so they can be
 
 ## Credits
 
-The following AIs were created by Krarilotus:
-
-- Al-Riyad
-- Amira
-- Bernard
-- Charles
-- Katatrina
-- Ramsey
-
-The following AIs were created by Schlossgespenst:
-
-- Bodo
-- Buergermeister
+Krarilotus created Al-Riyad, Amira, Bernard, Charles, Katatrina, and Ramsey.
+Schlossgespenst created Bodo and Buergermeister.
 
 ## Upstream
 
