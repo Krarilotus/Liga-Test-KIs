@@ -6,21 +6,21 @@ This repository contains the test AI plugin for the Mod KI Team Liga / KI Turnie
 
 The plugin bundles a small set of custom AIs in UCP plugin format so they can be tested and used in the Liga environment.
 
-## Included AIs
+## Credits
+
+This plugin contains these AIs by Krarilotus:
 
 - Al-Riyad
 - Amira
 - Bernard
-- Bodo
-- Buergermeister
 - Charles
 - Katatrina
 - Ramsey
 
-## Credits
+And these AIs by Schlossgespenst:
 
-Krarilotus created Al-Riyad, Amira, Bernard, Charles, Katatrina, and Ramsey.
-Schlossgespenst created Bodo and Buergermeister.
+- Bodo
+- Buergermeister
 
 ## Upstream
 
