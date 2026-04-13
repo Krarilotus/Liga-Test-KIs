@@ -46,7 +46,7 @@
     "MaxIronmines": 2,
     "MaxWoodcutters": 12,
     "MaxPitchrigs": 4,
-    "MaxFarms": 24,
+    "MaxFarms": 23,
     "BuildInterval": 1,
     "ResourceRebuildDelay": 1,
     "MaxFood": 88,
